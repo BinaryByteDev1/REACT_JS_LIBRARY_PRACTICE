@@ -1,0 +1,46 @@
+.Expense{
+    width: 90%;
+    height: auto;
+    padding: 20px 20px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: wheat;
+    color: black;
+    border-radius: 8px;
+    font-size: 20px;
+
+}
+.product_date{
+
+    text-align: center;
+    border: 1px solid beige;
+    padding: 10px 40px;
+    border-radius: 3px;
+    background-color: royalblue;
+    color: white;
+      
+}
+
+.item_Names{
+    text-align: center;
+    border: 1px solid beige;
+    padding: 10px 40px;
+    border-radius: 3px;
+    background-color: teal;
+    color: white;
+      
+
+}
+.expence_price{
+    text-align: center;
+    border: 1px solid beige;
+    padding: 10px 40px;
+    border-radius: 3px;
+    background-color: rgb(128, 0, 128);
+    color: white;
+      
+}
+.expence_price b{
+    font-size: 22px;
+}
